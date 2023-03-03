@@ -16,10 +16,10 @@ MonoBehaviour:
   - title: PARTICLE STRETCHES
     position:
       serializedVersion: 2
-      x: 212
-      y: -156
+      x: 268
+      y: 21
       width: 1199
-      height: 2266
+      height: 2286
     contents:
     - model: {fileID: 8926484042661614555}
       id: 0
@@ -239,10 +239,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 212
+    x: 269
     y: -2624
-    width: 5153
-    height: 4754
+    width: 5096
+    height: 4930
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -374,7 +374,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614556}
-  m_UIPosition: {x: 961, y: -98}
+  m_UIPosition: {x: 1018, y: 79}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -466,7 +466,7 @@ MonoBehaviour:
   m_Children:
   - {fileID: 8926484042661614580}
   - {fileID: 8926484042661614600}
-  m_UIPosition: {x: 962, y: 206}
+  m_UIPosition: {x: 1018, y: 383}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -931,7 +931,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614619}
-  m_UIPosition: {x: 961, y: 798}
+  m_UIPosition: {x: 1018, y: 975}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -973,7 +973,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614647}
   - {fileID: 8926484042661614593}
   - {fileID: 8926484042661614618}
-  m_UIPosition: {x: 960, y: 1140}
+  m_UIPosition: {x: 1016, y: 1317}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -2046,7 +2046,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Sphere, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.0},"radius":0.05000000074505806}'
+      m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.5},"radius":0.05000000074505806}'
     m_Space: 0
   m_Property:
     name: Sphere
@@ -2248,7 +2248,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 1
+      m_SerializableObject: 0.5
     m_Space: 2147483647
   m_Property:
     name: attractionSpeed
@@ -2961,7 +2961,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614653}
       inputSlot: {fileID: 8926484042661614648}
-    position: {x: 748.5, y: 1770.5}
+    position: {x: 805, y: 1947.5}
     expandedSlots: []
     expanded: 0
   - m_Id: 1
@@ -6151,7 +6151,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 20
+      m_SerializableObject: 0
     m_Space: 2147483647
   m_Property:
     name: attractionForce
@@ -13325,7 +13325,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 237, y: -38}
+  m_UIPosition: {x: 294, y: 139}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -13382,7 +13382,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 419, y: -74}
+  m_UIPosition: {x: 476, y: 103}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -13513,7 +13513,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 662, y: -14}
+  m_UIPosition: {x: 718, y: 163}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
